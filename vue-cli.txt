@@ -15,3 +15,5 @@ readme.md:说明书.
 
 --package.json
 serve --open 运行自动打开项目
+
+设置@报错勾选设置-check js
