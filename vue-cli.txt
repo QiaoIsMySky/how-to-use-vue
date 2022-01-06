@@ -12,3 +12,6 @@ babel.config.js:配置文件(babel相关)
 package.json:身份证,项目依赖,怎么运行
 package-lock.json:缓存性文件
 readme.md:说明书.
+
+--package.json
+serve --open 运行自动打开项目
